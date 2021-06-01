@@ -1,0 +1,29 @@
+@import url("estilos-comuns.css");
+
+blockquote{
+    margin-left: 60px;
+    font-style: italic; 
+}
+q{
+    font-style: italic;
+}
+#p-especial{
+    border: 3px solid limegreen;
+    border-collapse: collapse;
+    padding: 10px;
+    background-image: url(../imagens/fundo.png);
+}
+#img-jaula{
+    width: 300px;
+    border: 8px solid limegreen;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#img-succao{
+    width: 300px;
+    border: 8px solid limegreen;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
