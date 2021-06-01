@@ -4,9 +4,6 @@ blockquote{
     margin-left: 60px;
     font-style: italic; 
 }
-q{
-    font-style: italic;
-}
 #p-especial{
     border: 3px solid limegreen;
     border-collapse: collapse;
